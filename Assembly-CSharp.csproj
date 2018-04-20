@@ -57,6 +57,7 @@
      <Compile Include="Assets\box.cs" />
      <Compile Include="Assets\camera.cs" />
      <Compile Include="Assets\move.cs" />
+     <Compile Include="Assets\shoot.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
